@@ -16,7 +16,7 @@ def select_files():
 def merge_pdfs():
     files = list(listbox.get(0, tk.END))
     if not files:
-        messagebox.showerror("Fehler", "Bitte wähle bis zu 6 PDFs aus.")
+        messagebox.showerror("Fehler", "Bitte wähle bis zu 8 PDFs aus.")
         return
 
     output_file = filedialog.asksaveasfilename(defaultextension=".pdf", filetypes=[("PDF Dateien", "*.pdf")])
