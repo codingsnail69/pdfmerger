@@ -6,7 +6,7 @@ Ein einfaches, plattformunabhängiges Python-Tool zum Zusammenführen von bis zu
 
 ## 🚀 Funktionen
 
-- Wähle bis zu **8 PDF-Dateien** aus
+- Wähle bis zu **8 PDF-Dateien** aus (8 Dateien, damit die TextBox nicht überfüllt)
 - Ändere die Reihenfolge direkt durch Auswahl
 - Speichere das zusammengeführte Ergebnis als neue PDF-Datei
 - Einfache, intuitive GUI mit **Tkinter**
